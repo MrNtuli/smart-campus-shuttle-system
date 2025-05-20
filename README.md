@@ -8,3 +8,5 @@ Mr. Piyose (xpiyose@gmail.com)
 
 ## Submission
 - Activity 11 for Machine Learning (15% of Assessment 2)
+
+Video: https://youtu.be/J5pO9vWed1A
